@@ -10,6 +10,7 @@
 
 <img width="40%" align="right" alt="giphy gif" src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" />
 
+- 🖥️ *Currently not active*
 - 🔭 I’m currently working on a donation app
 - 🌱 I’m currently learning more about Coding
 - 👯 I’m looking to collaborate on open source
