@@ -9,9 +9,7 @@
 <br />
 
 - 🖥️ *Currently not active*
-- 🔭 I’m currently working on a donation app
 - 🌱 I’m currently learning more about Coding
-- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nazarenko07/) [Email](mailto:danielnazarenko.de@gmail.com)
 
